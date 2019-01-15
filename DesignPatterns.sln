@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BehavioralCommandPattern", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationalBuilderPattern", "CreationalBuilderPattern\CreationalBuilderPattern.csproj", "{EBE2D5D5-D9B8-4DA8-B8E3-78CC974CD5AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BehavioralStrategyPattern", "BehavioralStrategyPattern\BehavioralStrategyPattern.csproj", "{22FDBCC0-5EA4-499B-A192-8CFCD4B87D44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EBE2D5D5-D9B8-4DA8-B8E3-78CC974CD5AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBE2D5D5-D9B8-4DA8-B8E3-78CC974CD5AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBE2D5D5-D9B8-4DA8-B8E3-78CC974CD5AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22FDBCC0-5EA4-499B-A192-8CFCD4B87D44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22FDBCC0-5EA4-499B-A192-8CFCD4B87D44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22FDBCC0-5EA4-499B-A192-8CFCD4B87D44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22FDBCC0-5EA4-499B-A192-8CFCD4B87D44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

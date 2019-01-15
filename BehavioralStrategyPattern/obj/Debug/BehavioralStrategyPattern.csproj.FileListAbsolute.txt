@@ -1,0 +1,5 @@
+C:\Users\david.kalacska\Source\Repos\DesignPatterns\BehavioralStrategyPattern\bin\Debug\BehavioralStrategyPattern.exe.config
+C:\Users\david.kalacska\Source\Repos\DesignPatterns\BehavioralStrategyPattern\bin\Debug\BehavioralStrategyPattern.exe
+C:\Users\david.kalacska\Source\Repos\DesignPatterns\BehavioralStrategyPattern\bin\Debug\BehavioralStrategyPattern.pdb
+C:\Users\david.kalacska\Source\Repos\DesignPatterns\BehavioralStrategyPattern\obj\Debug\BehavioralStrategyPattern.exe
+C:\Users\david.kalacska\Source\Repos\DesignPatterns\BehavioralStrategyPattern\obj\Debug\BehavioralStrategyPattern.pdb
